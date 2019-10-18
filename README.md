@@ -1,2 +1,2 @@
 ## Spotify responsive
-*Spotify responsive template with Bootstrap*
+*Spotify responsive template for teaching purposes*
